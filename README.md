@@ -5,6 +5,6 @@ Thông tin của các thành viên trong nhóm:
 2. 1712771 - Bùi Thái Tấn Thành - thanhtan0501
 3. 1712778 - Thống A Thảo - thaothong21
 
-Trong đồ án này, nhóm tìm hiểu và cài đặt lại [một phương pháp giải quyết đã có](https://www.kaggle.com/code/alexander1980/best-cv-ens/notebook?scriptVersionId=87213915) (đứng thứ [5] trên private leaderboard) cho [bài toán Jigsaw Rate Severity of Toxic Comments](https://www.kaggle.com/c/jigsaw-toxic-severity-rating) trên Kaggle. Bạn đọc có thể mở file notebook ở thùng chứa của nhóm bằng Google Colab thông qua [link này](https://colab.research.google.com/github/thanhtruong1712/DAMH_KHDLUD/blob/main/Report.ipynb).
+Trong đồ án này, nhóm tìm hiểu và cài đặt lại [một phương pháp giải quyết đã có](https://github.com/GillesVandewiele/Liverpool-Ion-Switching) (đứng thứ [3] trên private leaderboard) cho [bài toán University of Liverpool - Ion Switching](https://www.kaggle.com/c/liverpool-ion-switching) trên Kaggle. Bạn đọc có thể mở file notebook ở thùng chứa của nhóm bằng Google Colab thông qua [link này](https://colab.research.google.com/github/thanhtruong1712/DAMH_KHDLUD/blob/main/Report.ipynb).
 
 Kế hoạch phân chia công việc của nhóm [tại đây](https://docs.google.com/spreadsheets/d/14OHI8V1CImbaVLDQhOnqxUZRNk1sCGeajTpKOEeQIfA/edit?usp=sharing). 
